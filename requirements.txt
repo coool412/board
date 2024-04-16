@@ -1,0 +1,11 @@
+bcrypt
+beautifulsoup4 
+Django 
+django-cors-headers==4.3.1
+jellyfish 
+Jinja2 
+PyJWT 
+PyMySQL==1.1.0
+requests 
+SQLAlchemy 
+Werkzeug 
